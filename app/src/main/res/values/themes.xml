@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Theme.Quiz_App" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#0E3A3A</item>
+        <item name="colorPrimary">#673AB7</item>
         <item name="colorPrimaryVariant">#085A5A</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
