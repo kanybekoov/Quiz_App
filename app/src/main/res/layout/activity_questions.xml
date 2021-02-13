@@ -54,6 +54,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
+                android:textColorHint="#7A8089"
                 android:padding="10sp"
                 android:text="0/10"
                 android:textSize="16sp" />
@@ -113,7 +114,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-            android:background="@color/purple_700"
+            android:backgroundTint="@color/teal_700"
             android:padding="15dp"
             android:text="Submit" />
     </LinearLayout>

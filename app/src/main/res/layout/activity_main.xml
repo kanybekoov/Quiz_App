@@ -72,7 +72,7 @@
                 android:layout_height="wrap_content"
                 android:text="Submit and start"
                 android:layout_marginTop="10dp"
-                android:background="@color/black"/>
+                android:backgroundTint="@color/teal_700"/>
 
         </LinearLayout>
 
