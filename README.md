@@ -7,5 +7,5 @@ then that variant would be in red color. At the end when user answered to 10 que
 All questions I have added manually in one class.
 
 
-Link to apk fili, video and screenshots of this app is below:
+Link to apk file, video and screenshots of this app is below:
 https://drive.google.com/drive/folders/1SOU7ODJgd5DhLUnZN-CpdWA3Y3R6s0f7?usp=sharing
